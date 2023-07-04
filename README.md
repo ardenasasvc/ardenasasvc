@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## social media
 
-blog: coming soon™️
+blog: https://arden.social
 
 mastodon: [@arden@hachyderm.io](https://hachyderm.io/@arden)
 
