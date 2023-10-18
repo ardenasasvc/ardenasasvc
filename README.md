@@ -27,4 +27,4 @@ blog: https://arden.social
 
 mastodon: [@arden@hachyderm.io](https://hachyderm.io/@arden)
 
-twitter, for however long it lasts: https://twitter.com/ardenasaservice
+bluesky: [@arden.social](https://bsky.app/profile/arden.social)
